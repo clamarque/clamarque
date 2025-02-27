@@ -15,7 +15,7 @@
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:clamarque.dev@gmail.com)
 </p>
 
-### Skills
+### 📋 Skills
 
 #### 🌐 Languages
 
@@ -71,7 +71,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
-### Testing & QA
+### 🧪 Testing & QA
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=flat-square&logo=cucumber&logoColor=white)
 
@@ -132,7 +132,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-### 📊 Gestion de projet
+### 📊 Project management
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
@@ -141,7 +141,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clamarque&show_icons=true&locale=en&layout=compact" alt="clamarque" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clamarque&show_icons=true&locale=en" alt="clamarque" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=clamarque&show_icons=true&locale=en" alt="clamarque" /></p>
 
 
 
