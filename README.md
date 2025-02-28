@@ -22,14 +22,14 @@
 ![](https://img.shields.io/badge/French-8A2BE2)
 ![](https://img.shields.io/badge/English-8A2BE2)
 
-### Versionning
+#### Versionning
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 
-### 🎨 Libraries Frontend
+#### 🎨 Libraries Frontend
 
 ![](https://img.shields.io/badge/Lit-Element-8A2BE2)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
@@ -38,26 +38,26 @@
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
 
-### State management Frontend
+#### State management Frontend
 
 ![](https://img.shields.io/badge/Vuex-4FC08D)
 ![](https://img.shields.io/badge/Pinia-FFF000)
 ![](https://img.shields.io/badge/Redux-8A2BE2)
 ![](https://img.shields.io/badge/Zustand-8A2BE2)
 
-### SSR & SSG
+#### SSR & SSG
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white)
 ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat-square&logo=nuxt.js&logoColor=#00DC82)
 
-### Code Quality & Linting
+#### Code Quality & Linting
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=flat-square&logo=prettier&logoColor=black)
 ![StyleLint](https://img.shields.io/badge/stylelint-000?style=flat-square&logo=stylelint&logoColor=white)
 ![Husky](https://img.shields.io/badge/Husky-8A2BE2)
 
-### 🛠 Styling & UI
+#### 🛠 Styling & UI
 
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white)
 ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=flat-square&logo=ant-design&logoColor=white)
@@ -71,7 +71,7 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
 ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
 
-### 🧪 Testing & QA
+#### 🧪 Testing & QA
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e)
 ![Cucumber](https://img.shields.io/badge/Cucumber-43B02A?style=flat-square&logo=cucumber&logoColor=white)
 
@@ -83,7 +83,7 @@
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=flat-square&logo=testing-library&logoColor=white)
 ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
 
-### ⚙️ Backend & API
+#### ⚙️ Backend & API
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white)
@@ -102,13 +102,13 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0803.svg?style=flate-square&logo=typeorm&logoColor=white)
 
-### 🗄️ Databases & Servers
+#### 🗄️ Databases & Servers
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 
 
-### 🚀 DevOps & Infrastructure
+#### 🚀 DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
@@ -120,19 +120,19 @@
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 
-### 📦 Package Managers & Build Tools
+#### 📦 Package Managers & Build Tools
 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
 ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=flat-square&logo=pnpm&logoColor=f69220)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
 
-### 🛠️ Development tools
+#### 🛠️ Development tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=flat-square&logo=insomnia&logoColor=5849BE)
 ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white)
 
-### 📊 Project management
+#### 📊 Project management
 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat-square&logo=jira&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
