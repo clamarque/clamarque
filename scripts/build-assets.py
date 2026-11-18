@@ -224,11 +224,14 @@ hero()
 # ================================================================ crema sections
 # Transparent SVGs rendered twice: "-light" and "-dark", swapped by
 # <picture> + prefers-color-scheme in the README.
+# One theme-neutral palette: GitHub picks <picture> sources from the OS
+# colour scheme, not from the GitHub theme, so light/dark variants can end
+# up on the wrong background. These mid tones read on both #fff and #0d1117
+# (contrast >= 4:1 on each).
+TAUPE, CARAMEL_MID = "#8f7a69", "#a8743f"
 THEMES = {
-    "light": dict(ink=ESPRESSO, soft=MUTED, accent=CARAMEL, line=LINE_STRONG,
-                  fill=ESPRESSO, fill_ink=BG, outline=LINE_STRONG),
-    "dark": dict(ink=BG, soft=MUTED_DARK, accent=CARAMEL_LIGHT, line=LINE_DARK,
-                 fill=CARAMEL_LIGHT, fill_ink=ESPRESSO, outline="#5a4a3e"),
+    "": dict(ink=TAUPE, soft=TAUPE, accent=CARAMEL_MID, line="#8f7a6980",
+             fill=CARAMEL, fill_ink="#ffffff", outline="#8f7a69a0"),
 }
 
 
@@ -241,7 +244,7 @@ def section_title(name, num, label, title_runs):
         s.add(f'<line x1="{w+18:.0f}" y1="25.5" x2="{W-2}" y2="25.5" stroke="{c["line"]}"/>')
         runs = [(t, f, c["accent"] if f == "serif-i" else c["ink"]) for t, f in title_runs]
         s.runs(0, 76, runs, 38, ls_em=-0.025)
-        s.render(f"h-{name}-{theme}.svg")
+        s.render(f"h-{name}.svg")
 
 
 STACK = [  # * = au quotidien
@@ -283,7 +286,7 @@ def stack():
         s.add(f'<rect x="{LBL+30+w+22.5:.1f}" y="{y+0.5}" width="21" height="11" rx="5.5" fill="none" stroke="{c["outline"]}"/>')
         s.text(LBL + 30 + w + 52, y + 10.5, "aussi utilisé", "sans", 13, c["soft"])
         s.h = int(y + 18)
-        s.render(f"stack-{theme}.svg")
+        s.render("stack.svg")
 
 
 section_title("projets", "01", "Projets", [("Ce que j'ai ", "serif"), ("construit", "serif-i")])
@@ -328,7 +331,7 @@ def project_rows():
             y0 = H / 2 + 5 - (len(lines) - 1) * 12
             for j, ln in enumerate(lines):
                 s.runs(DX, y0 + j * 24, ln, 15.5)
-            s.render(f"p-{key}-{theme}.svg")
+            s.render(f"p-{key}.svg")
 
 
 project_rows()

@@ -4,42 +4,18 @@ Développeur full-stack JavaScript basé à Lille, **plus de dix ans en ESN** po
 
 Disponible en **freelance** pour du build produit (MVP), du renfort d'équipe ou de l'audit.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-projets-dark.svg" />
-  <img src="assets/h-projets-light.svg" width="100%" alt="01 — Projets — Ce que j'ai construit" />
-</picture>
+<img src="assets/h-projets.svg" width="100%" alt="01 — Projets — Ce que j'ai construit" />
 
 <p>
-<a href="https://badminton-manager.clamarque-dev.workers.dev/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/p-badminton-dark.svg" />
-  <img src="assets/p-badminton-light.svg" width="100%" alt="Badminton Manager — Next.js, PWA" />
-</picture></a>
-<a href="https://www.hubmovies.app/"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/p-hubmovies-dark.svg" />
-  <img src="assets/p-hubmovies-light.svg" width="100%" alt="Hubmovies — Nuxt, Firebase, PWA" />
-</picture></a>
-<a href="https://clamarque.github.io/#section-portfolio"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/p-contelune-dark.svg" />
-  <img src="assets/p-contelune-light.svg" width="100%" alt="Contelune — Next.js, Ollama, FLUX" />
-</picture></a>
-<a href="https://clamarque.github.io/#section-portfolio"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/p-crema-dark.svg" />
-  <img src="assets/p-crema-light.svg" width="100%" alt="Crema — React, Vite, Supabase" />
-</picture></a>
-<a href="https://github.com/clamarque/angular-movies"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/p-angular-movies-dark.svg" />
-  <img src="assets/p-angular-movies-light.svg" width="100%" alt="angular-movies — Angular, 60 étoiles" />
-</picture></a>
-<a href="https://github.com/clamarque/kibana_health_metric_vis"><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/p-kibana-health-dark.svg" />
-  <img src="assets/p-kibana-health-light.svg" width="100%" alt="kibana_health_metric_vis — Kibana, 46 étoiles" />
-</picture></a>
+<a href="https://badminton-manager.clamarque-dev.workers.dev/"><img src="assets/p-badminton.svg" width="100%" alt="Badminton Manager — Next.js, PWA" /></a>
+<a href="https://www.hubmovies.app/"><img src="assets/p-hubmovies.svg" width="100%" alt="Hubmovies — Nuxt, Firebase, PWA" /></a>
+<a href="https://clamarque.github.io/#section-portfolio"><img src="assets/p-contelune.svg" width="100%" alt="Contelune — Next.js, Ollama, FLUX" /></a>
+<a href="https://clamarque.github.io/#section-portfolio"><img src="assets/p-crema.svg" width="100%" alt="Crema — React, Vite, Supabase" /></a>
+<a href="https://github.com/clamarque/angular-movies"><img src="assets/p-angular-movies.svg" width="100%" alt="angular-movies — Angular, 60 étoiles" /></a>
+<a href="https://github.com/clamarque/kibana_health_metric_vis"><img src="assets/p-kibana-health.svg" width="100%" alt="kibana_health_metric_vis — Kibana, 46 étoiles" /></a>
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-ia-dark.svg" />
-  <img src="assets/h-ia-light.svg" width="100%" alt="02 — IA — Livrer avec des agents" />
-</picture>
+<img src="assets/h-ia.svg" width="100%" alt="02 — IA — Livrer avec des agents" />
 
 - **Agents** — Claude Code et Cursor, subagents et workflows multi-agents : investigation, plan, implémentation, revue.
 - **MCP** — agents connectés aux outils de l'équipe : GitLab, Jira, Datadog, MongoDB, Slack, Playwright.
@@ -48,30 +24,15 @@ Disponible en **freelance** pour du build produit (MVP), du renfort d'équipe ou
 
 L'IA accélère l'exécution ; les choix d'architecture et la relecture restent humains.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-stack-dark.svg" />
-  <img src="assets/h-stack-light.svg" width="100%" alt="03 — Stack — Les outils du métier" />
-</picture>
+<img src="assets/h-stack.svg" width="100%" alt="03 — Stack — Les outils du métier" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg" />
-  <img src="assets/stack-light.svg" width="100%" alt="Stack — Front : TypeScript, React, Next.js, Vue, Nuxt · Back & data : Node.js, NestJS, GraphQL, PostgreSQL, MongoDB · Qualité : Cypress, Jest · DevOps : Docker, GitHub Actions, Vercel · IA : Claude Code, Cursor, MCP, Ollama" />
-</picture>
+<img src="assets/stack.svg" width="100%" alt="Stack — Front : TypeScript, React, Next.js, Vue, Nuxt · Back & data : Node.js, NestJS, GraphQL, PostgreSQL, MongoDB · Qualité : Cypress, Jest · DevOps : Docker, GitHub Actions, Vercel · IA : Claude Code, Cursor, MCP, Ollama" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-activite-dark.svg" />
-  <img src="assets/h-activite-light.svg" width="100%" alt="04 — Activité — Pac-Man contre mes commits" />
-</picture>
+<img src="assets/h-activite.svg" width="100%" alt="04 — Activité — Pac-Man contre mes commits" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/clamarque/clamarque/output/pacman-contribution-graph-dark.svg" />
-  <img src="https://raw.githubusercontent.com/clamarque/clamarque/output/pacman-contribution-graph.svg" alt="Pac-Man qui mange mon graphe de contributions" />
-</picture>
+<img src="https://raw.githubusercontent.com/clamarque/clamarque/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man qui mange mon graphe de contributions" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/h-contact-dark.svg" />
-  <img src="assets/h-contact-light.svg" width="100%" alt="05 — Contact — Un projet ? Discutons-en." />
-</picture>
+<img src="assets/h-contact.svg" width="100%" alt="05 — Contact — Un projet ? Discutons-en." />
 
 [![Email](https://img.shields.io/badge/Email-2a1e17?style=for-the-badge&logo=gmail&logoColor=d9b48a)](mailto:clamarque.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2a1e17?style=for-the-badge)](https://www.linkedin.com/in/charleslamarque)
